@@ -1,0 +1,7 @@
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\bin\Bootstrap.dll
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\bin\Bootstrap.pdb
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\obj\Debug\Bootstrap.dll
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\obj\Debug\Bootstrap.pdb
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\bin\HelperClass.dll
+D:\EnterpriseLbrary\WebAPIPractice\Bootstrap\bin\HelperClass.pdb
